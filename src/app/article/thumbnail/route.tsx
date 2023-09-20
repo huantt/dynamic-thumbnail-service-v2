@@ -1,6 +1,6 @@
-import { ImageResponse } from '@vercel/og';
+import { ImageResponse,NextRequest } from 'next/server';
+// App router includes @vercel/og. No need to install it.
 import Page from "@/app/article/thumbnail/html/page";
-import {NextRequest} from "next/server";
 import {config} from "@/app/article/thumbnail/config";
 
 export async function GET(req: NextRequest) {
