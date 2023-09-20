@@ -14,8 +14,8 @@ _(Satori: Enlightened library is used to convert HTML and CSS into SVG))_
 
 ### Run local
 ```shell
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ### Run Docker
@@ -250,3 +250,4 @@ _View up-to-date list here: https://github.com/vercel/satori#css_
 ## Reference
 - https://vercel.com/docs/functions/edge-functions/og-image-generation
 - https://vercel.com/blog/introducing-vercel-og-image-generation-fast-dynamic-social-card-images
+- https://github.com/vercel/next.js/blob/canary/examples/with-docker-multi-env/docker/production/Dockerfile
