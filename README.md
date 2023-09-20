@@ -20,10 +20,7 @@ pnpm run dev
 
 ### Run Docker
 ```shell
-docker build -t dynamic-thumbnail-service .
-```
-```shell
-docker run -p 3001:3000 dynamic-thumbnail-service:latest
+docker run -p 3001:3000 huanttok/dynamic-thumbnail-service-v2:latest
 ```
 
 Now service is live on http://localhost:3001
