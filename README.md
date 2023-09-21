@@ -58,7 +58,7 @@ Insert the following meta tag into your website:
 
 Now, when user share your page to Twitter, Facebook, or Slack chat,... you will see this thumbnail:
 
-![Jack dynamic thumbnail](docs/images/thumbnail.png)
+![Jack dynamic thumbnail](https://dynamic-thumbnail-dev-to-e8hh.vercel.app/article/1606750/thumbnail)
 
 You can use [Facebook debug tool](https://developers.facebook.com/tools/debug) to preview.
 
